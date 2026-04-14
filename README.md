@@ -1,5 +1,7 @@
 # Retail Credit Risk Portal & Analytical Decision Engine
 
+> **Note**: As Snowflake access is limited to a 30-day trial period, the processed master data has been persisted in CSV format within this repository, while the end-to-end logic remains accessible via the provided scripts.
+ 
 ---
 
 ## 📌 Project Overview
